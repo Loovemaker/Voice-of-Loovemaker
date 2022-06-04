@@ -7,8 +7,8 @@
         <generator>Feeder 3 3.7.5(3340); Mac OS X Version 10.16 (Build 21F79) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>zh-cn</language>
-        <pubDate>Sat, 04 Jun 2022 21:50:43 +0800</pubDate>
-        <lastBuildDate>Sat, 04 Jun 2022 21:50:43 +0800</lastBuildDate>
+        <pubDate>Sat, 04 Jun 2022 21:54:21 +0800</pubDate>
+        <lastBuildDate>Sat, 04 Jun 2022 21:54:21 +0800</lastBuildDate>
         <image>
             <url>https://loovemaker.github.io/Voice-of-Loovemaker/EB536A24-5DA6-4471-924B-FD1E81D18A34_1_201_a-72px.jpg</url>
             <title>Voice of Loovemaker</title>
@@ -17,6 +17,21 @@
             <height>144</height>
         </image>
         <atom:link href="https://loovemaker.github.io/Voice-of-Loovemaker/RSS.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Voice of Loovemaker</title>
+            <description><![CDATA[<h2>如何订阅</h2>
+<ol>
+<li><p>获取以下链接，它是一个<code>.xml</code>文件：</p>
+<p><a href="https://loovemaker.github.io/Voice-of-Loovemaker/RSS.xml"><img src="https://loovemaker.github.io/Voice-of-Loovemaker/resources/QRCode.png" style="zoom:50%;" /></a></p>
+</li>
+<li><p>使用你喜欢的RSS阅读器打开这个链接；</p>
+</li>
+<li>完成。</li>
+</ol>
+]]></description>
+            <pubDate>Sat, 04 Jun 2022 21:53:58 +0800</pubDate>
+            <guid isPermaLink="false">52A43DD9-0593-47D4-80B7-DC5B14EAAACE</guid>
+        </item>
         <item>
             <title>Hello</title>
             <link>https://loovemaker.github.io/Voice-of-Loovemaker/</link>
