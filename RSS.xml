@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Voice of Loovemaker</title>
+        <link>https://loovemaker.github.io/Voice-of-Loovemaker/index.html</link>
+        <description>My first RSS feed</description>
+        <generator>Feeder 3 3.7.5(3340); Mac OS X Version 10.16 (Build 21F79) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>zh-cn</language>
+        <pubDate>Sat, 04 Jun 2022 21:26:16 +0800</pubDate>
+        <lastBuildDate>Sat, 04 Jun 2022 21:26:16 +0800</lastBuildDate>
+        <atom:link href="https://loovemaker.github.io/Voice-of-Loovemaker/RSS.xml" rel="self" type="application/rss+xml"/>
+    </channel>
+</rss>
