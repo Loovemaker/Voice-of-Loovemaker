@@ -7,8 +7,17 @@
         <generator>Feeder 3 3.7.5(3340); Mac OS X Version 10.16 (Build 21F79) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>zh-cn</language>
-        <pubDate>Sat, 04 Jun 2022 21:26:16 +0800</pubDate>
-        <lastBuildDate>Sat, 04 Jun 2022 21:26:16 +0800</lastBuildDate>
+        <pubDate>Sat, 04 Jun 2022 21:39:24 +0800</pubDate>
+        <lastBuildDate>Sat, 04 Jun 2022 21:39:24 +0800</lastBuildDate>
         <atom:link href="https://loovemaker.github.io/Voice-of-Loovemaker/RSS.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Hello</title>
+            <link>https://loovemaker.github.io/Voice-of-Loovemaker/</link>
+            <description><![CDATA[<pre><code>Hello, world!
+</code></pre>
+]]></description>
+            <pubDate>Sat, 04 Jun 2022 21:39:22 +0800</pubDate>
+            <guid isPermaLink="false">DF42C4CB-3FC9-4DAA-A9D4-7D1EA6E5E6E5</guid>
+        </item>
     </channel>
 </rss>
